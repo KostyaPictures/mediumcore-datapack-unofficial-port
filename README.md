@@ -15,7 +15,8 @@ It was a hard journey and in the end almost all functions from original mod are 
 
 # How to configure it?
 
-the main config file is located in `\data\mediumcore\function\config.mcfunction`
+the main config file is located in `\data\mediumcore\function\config.mcfunction`</br>
+(in `\data\mediumcore\functions\config.mcfunction` for 1.20.2)
 <img width="1126" height="448" alt="image" src="https://github.com/user-attachments/assets/e601e13f-5f74-4bb3-8981-085963f5ac8f" /></br>
 Here's what each value does
 | in config | what it means |
