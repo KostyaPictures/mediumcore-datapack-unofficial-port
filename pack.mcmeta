@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "text": "Unofficial AlexModGuy Mediumcore vanilla datapack port",
+      "color": "green"
+    },
+    "min_format": [
+      255,
+      15
+    ],
+    "max_format": 255
+  }
+}

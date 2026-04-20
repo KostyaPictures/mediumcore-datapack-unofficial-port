@@ -1,0 +1,1 @@
+$scoreboard objectives add used_$(item) minecraft.used:minecraft.$(item)
