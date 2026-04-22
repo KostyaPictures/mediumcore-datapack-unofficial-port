@@ -1,0 +1,1 @@
+$data modify storage minecraft:mediumcore_items item set from storage minecraft:mediumcore items[$(storagetemp_IndexInLoop)]
